@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6a267d6f889f494da5b15408c56136a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Card_Insert: {fileID: 7538029333372961814, guid: 09d658a0d3851c7419eb71a73e5c8e2e, type: 3}
+  - Card_Insert2: {fileID: 8694148820338796874, guid: e1caffcfc1bfece47bd694470fc63f5b, type: 3}
+  - Player_Area: {fileID: 2862999036017477474, guid: 0ea3385b55065f245b63425879ec47a6, type: 3}
+  - Enemy_Area: {fileID: 3912357006392908389, guid: 6406085c6793e3748960597b426a0f35, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
